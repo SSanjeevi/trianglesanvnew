@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Example Content II
-description: >
+title: Sample content
+description: |
   A page showing how regular markdown content is styled in Hydejack.
 image: /assets/img/blog/example-content-ii.jpg
-canonical_url: https://pages-themes.github.io/architect/
+canonical_url: 'https://pages-themes.github.io/architect/'
+published: true
 ---
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+##header
 
 There should be whitespace between paragraphs.
 
