@@ -2,6 +2,9 @@
 label: Home
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: textarea
+  name: how_to_create_word_web_addin
+  label: How to create word web addin
 pages:
 - _posts/How-to-create-word-web-addin.md
